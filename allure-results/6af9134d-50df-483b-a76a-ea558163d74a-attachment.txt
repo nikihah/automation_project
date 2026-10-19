@@ -1,1 +1,0 @@
-Selenium, Playwright, Cypress, Appium, Katalon Studio
